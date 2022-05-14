@@ -19,6 +19,7 @@
 
   <modules>
     <module>dockerize-web-appliance</module>
+    <module>spring-boot-web-k8s</module>
   </modules>
 
 </project>
